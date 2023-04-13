@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="assets/images/splash.png" width="150" height="300">
-</h1>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
